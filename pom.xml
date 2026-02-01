@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://172.31.40.189:8081/repository/flipkart-release/</url>
+	      <name>Bharat relase</name>
+	      <url>http://65.0.26.115:8081/repository/Bharath-release-url/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://13.234.75.227:8081/repository/jio-snapshot/</url>
+	      <name>Bharath snapshot </name>
+	      <url>http://65.0.26.115:8081/repository/Bharath-snapshot-url/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
