@@ -91,7 +91,7 @@
 </div>
 
 <footer>
-    <p>© Bharath Training & Development Center</p>
+    <p>© Bharath Subject Expert & Devops</p>
     <p><small>Powered by <a href="https://google.com/">KK FUNDA</a></small></p>
 </footer>
 
