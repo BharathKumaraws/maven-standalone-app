@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1> Bharath Devops Guy </h1>
+    <h1> Bharath Devops SRE </h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
