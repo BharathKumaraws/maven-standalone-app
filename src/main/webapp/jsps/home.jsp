@@ -47,7 +47,7 @@
 
 <header>
     <h1> Bharath Devops SRE </h1>
-    <h3>Linux</h3>
+    <h3>Linux | Shell </h3>
 </header>
 
 <div class="container">
