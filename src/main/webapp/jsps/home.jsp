@@ -91,7 +91,7 @@
 </div>
 
 <footer>
-    <p>© 2024 KK FUNDA Training & Development Center</p>
+    <p>© Bharath Training & Development Center</p>
     <p><small>Powered by <a href="https://google.com/">KK FUNDA</a></small></p>
 </footer>
 
