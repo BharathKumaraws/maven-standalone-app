@@ -29,7 +29,7 @@ node {
         sh """
         curl -u admin:Bharath \
         --upload-file /var/lib/jenkins/workspace/Scriptedwaypipeline/target/maven-web-application.war \
-        "http://54.198.192.214:8080//manager/text/deploy?path=/maven-web-application&update=true"
+        "http://54.226.20.81:8080//manager/text/deploy?path=/maven-web-application&update=true"
         """
         }
 
